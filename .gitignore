@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/
+input/*.zst
+.vscode/
+.DS_Store
+*.duckdb.wal
+.idea/
+.streamlit/secrets.toml
+*.egg-info/
+spark-warehouse/
+derby.log
+metastore_db/
